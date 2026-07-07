@@ -1,0 +1,23 @@
+Invitation to Explore My Portfolio & Projects
+
+Dear Alexander,
+
+I am excited to invite you to explore my professional portfolio, GitHub, and a selection of production-ready software projects built on scalable software engineering practices.
+
+My work focuses on designing scalable, secure, and high-performance web applications using Python, Django, Django REST Framework (DRF), PostgreSQL, JavaScript, and modern software engineering principles. I have developed production-ready systems, including E-Commerce platforms, Enterprise Inventory Management solutions, Enterprise Workflow & Ticket Management Systems, Content Management Systems (CMS), and RESTful API ecosystems, with a strong emphasis on clean architecture, secure authentication, Role-Based Access Control (RBAC), query optimization, and maintainable software systems.
+
+I would be delighted to connect, exchange ideas, and discuss potential opportunities or collaborations.
+
+You can explore my work here:
+
+Portfolio:
+https://muhamad-ammar-dev.github.io/My-Portfolio-DevMA/
+
+GitHub:
+https://github.com/muhamad-ammar-dev
+
+I look forward to connecting with you.
+
+Best regards,
+
+[Muhamad Ammar Team]
